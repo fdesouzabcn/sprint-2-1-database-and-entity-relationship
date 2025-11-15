@@ -1,9 +1,9 @@
-# Project Name
-  **Description**: A brief explanation of the project's objective.
+# Database Exercises - MySQL
+  **Description**: In this practice (S2.01) we will have to practice how to create a database and seign it's entity relationship (ER)
 
   ## 🛠 Technologies
-  - Frontend: React, Tailwind
-  - Backend: Java, MongoDB
+  - Frontend: N/A
+  - Backend: MySQL, Workbench
 
   ## 🚀 Installation
   1. Clone the repository: `git clone ...`
